@@ -4772,9 +4772,8 @@ textarea.form-control-lg {
   border-color: #0d6efd;
 }
 .page-item.disabled .page-link {
-  color: #6c757d;
+  color: black;
   pointer-events: none;
-  background-color: #fff;
   border-color: #dee2e6;
 }
 
